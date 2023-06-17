@@ -1,0 +1,1 @@
+This tutorial is based on the JavaScript features that are essential for react js. Mainly, focused on the ES6 features.
